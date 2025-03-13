@@ -16,8 +16,8 @@
 | Week 8     | Permamente evaluatie | Individuele PE in klas |
 | Week 9     | Environments on demand |  |
 | Week 10    | Integrated testing |  |
-| Week 11    | Monitoring & reporting feedback  - Integratieopdracht Cloud | integratieopdracht in MS Azure |
-| Week 12    | Integratieopdracht cloud | |
+| Week 11    | Projectweek | |
+| Week 12    | Monitoring & reporting feedback  - Integratieopdracht Cloud | integratieopdracht in MS Azure |
 | Week 13    | Q&A - Evaluatie integratieopdracht |  Mondelinge evaluaties |
 
 # Permanente evaluatie v1
