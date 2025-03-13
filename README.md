@@ -45,8 +45,8 @@
 | Week 8     | Permamente evaluatie | Individuele PE in klas |
 | Week 9     | Environments on demand |  |
 | Week 10    | Integrated testing |  |
-| Week 11    | Monitoring & reporting feedback | |
-| Week 12    | Integratieopdracht cloud | |
+| Week 11    | Projectweek | |
+| Week 12    | Monitoring & reporting feedback | |
 | Week 13    | Q&A  | |
 
 
