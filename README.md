@@ -56,6 +56,5 @@
 |-------------|--------|-------------|
 | Opdracht 1: Source control  | 20%    | Groepswerk  |
 | Opdracht 2: CI in GH Actions  | 40%    | Individueel in de klas   |
-| Opdracht 3: Environments on demand  | 30%    | Groepswerk  |
-| Opdracht 4: Integrated testing  | 20%    | Groepswerk  |
+| Opdracht 3: Environments on demand & integrated testing  | 40%    | Groepswerk  |
 
