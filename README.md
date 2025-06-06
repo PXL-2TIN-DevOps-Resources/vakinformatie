@@ -1,7 +1,7 @@
 
 # Evaluatie
-- Examen (60%): Gesloten boek met laptop zonder internettoegang (lockdown browser)
-- Permanente evaluatie(40%): Combinatie individuele & groepsopdrachten. Meer informatie hieronder
+- Examen (50%): Gesloten boek met laptop zonder internettoegang (lockdown browser)
+- Permanente evaluatie(50%): Combinatie individuele & groepsopdrachten. Meer informatie hieronder
 
 # Planning
 | Weeknummer | Lesinhoud | Nota's |
