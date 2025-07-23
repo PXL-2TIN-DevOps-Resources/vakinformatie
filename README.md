@@ -8,14 +8,14 @@
 |------------|----------|--------|
 | Week 1     | Vakintroductie | Inleidende oefening |
 | Week 2     | Agile & DevOps | Groepsindeling |
-| Week 3     | Source control | Deadline deelname groepswerk - PE Lab: Source control |
-| Week 4     | Continious integration & Continious deployment |  Lab: Build requirements|
-| Week 5     | Github actions |  |
-| Week 6     | CI in GH Actions |  |
+| Week 3     | Source control | Deadline deelname groepswerk |
+| Week 4     | Continious integration & Continious deployment |  Lab: Build requirements |
+| Week 5     | Github actions | Lab: Github Actions Introduction |
+| Week 6     | CI in GH Actions | Lab: CI in GH Actions |
 | Week 7     | Projectweek & oefeningen |  |
 | Week 8     | Permamente evaluatie | Individuele PE in klas |
-| Week 9     | Environments on demand |  |
-| Week 10    | Integrated testing |  |
+| Week 9     | Environments on demand | Lab: CD in GH Actions  |
+| Week 10    | Integrated testing | Lab: Testing in the pipeline  |
 | Week 11    | Projectweek | |
 | Week 12    | Monitoring & reporting feedback | |
 | Week 13    | Q&A  | |
